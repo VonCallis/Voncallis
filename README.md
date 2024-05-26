@@ -5,6 +5,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VonCallis)
 
-[![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)](https://signal.group/#CjQKIL7N_K8jZyGD1sgjUuK-p2xu5wdld9QQSvN1QYjxsMYnEhAFNZiCQGxG7RIuB4kV2FH8)
+[![Discordl](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1018277738492211201)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VonCallis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
