@@ -7,4 +7,4 @@
 
 [![Discordl](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1018277738492211201)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VonCallis&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VonCallis&theme=blue-green)
